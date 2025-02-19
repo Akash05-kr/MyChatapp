@@ -91,11 +91,10 @@ apply plugin: 'com.google.gms.google-services'
 
 ## 🖼 Screenshots  
 
-| Sign Up Screen | Chat Room List | Chat Screen |
-|---------------|---------------|-------------|
-| ![SignUp](https://github.com/Akash05-kr/MyChatapp/blob/master/signup.jpg) | ![ChatRooms](https://github.com/Akash05-kr/MyChatapp/blob/master/chatroom.jpg) | ![ChatScreen](https://github.com/Akash05-kr/MyChatapp/blob/master/chatscreen.jpg) |
+| Sign Up Screen | Chat Room List | 
+|---------------|---------------|
+| ![SignUp](https://github.com/Akash05-kr/MyChatapp/blob/master/signup.jpg) | ![ChatRooms](https://github.com/Akash05-kr/MyChatapp/blob/master/chatroom.jpg) | 
 
-*Replace the above image links with actual screenshots of your app.*
 
 ---
 
