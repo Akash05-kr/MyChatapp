@@ -93,7 +93,7 @@ apply plugin: 'com.google.gms.google-services'
 
 | Sign Up Screen | Chat Room List | Chat Screen |
 |---------------|---------------|-------------|
-| ![SignUp](https://via.placeholder.com/300x600?text=SignUp) | ![ChatRooms](https://via.placeholder.com/300x600?text=ChatRooms) | ![ChatScreen](https://via.placeholder.com/300x600?text=ChatScreen) |
+| ![SignUp](https://github.com/Akash05-kr/MyChatapp/blob/master/signup.jpg) | ![ChatRooms](https://github.com/Akash05-kr/MyChatapp/blob/master/chatroom.jpg) | ![ChatScreen](https://github.com/Akash05-kr/MyChatapp/blob/master/chatscreen.jpg) |
 
 *Replace the above image links with actual screenshots of your app.*
 
